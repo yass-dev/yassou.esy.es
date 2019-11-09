@@ -1,0 +1,53 @@
+body
+{
+	background-color: black;
+}	
+
+nav
+{
+	text-align: center;
+}
+
+nav ul
+{
+    list-style-type: none;
+}
+
+nav li
+{
+    display: inline-block;
+    margin-right: 15px;
+    border-radius: 5px solid blue;
+}
+
+nav a 
+{
+    font-size: 1.3em;
+    color: #181818;
+    padding-bottom: 3px;
+    text-decoration: none;
+    color : red; 
+    border-radius: 5px;
+}
+
+
+
+
+header
+{
+	border: 6px solid blue;
+    border-radius: 23px;
+	background-color: black;
+}
+
+h1
+{
+	color: blue;
+	font-size : 60px;
+}
+
+p
+{
+	color : blue;
+	font-size : 30px;
+}

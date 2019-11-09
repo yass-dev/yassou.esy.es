@@ -1,0 +1,130 @@
+body
+{
+	background-color: black;
+}	
+
+nav
+{
+	text-align: center;
+}
+
+nav ul
+{
+    list-style-type: none;
+}
+
+nav li
+{
+    display: inline-block;
+    margin-right: 15px;
+    border-radius: 5px solid blue;
+}
+
+nav a 
+{
+    font-size: 1.3em;
+    color: #181818;
+    padding-bottom: 3px;
+    text-decoration: none;
+    color : red; 
+    border-radius: 5px;
+}
+
+
+
+
+header
+{
+	border: 6px solid blue;
+	border-radius: 23px;
+	background-color: black;
+}
+
+h1
+{
+	color: blue;
+	font-size : 60px;
+}
+
+#banniere_image
+{
+    margin-top: 15px;
+    height: 200px;
+    border-radius: 5px;
+    background: url('images/sanfrancisco.jpg') no-repeat;
+    position: relative;
+    box-shadow: 0px 4px 4px #1c1a19;
+    margin-bottom: 25px;
+}
+
+.music img
+{
+	position: absolute;
+	top: 1100;
+	left: 40;
+}
+
+.ma_musique
+{
+	display: inline-block;
+	border: 3px solid white;
+	position: absolute;
+	top: 275px;
+	left: 0px;
+}
+
+article
+{
+	display: inline-block;
+	border: 3px solid white;
+	background-color: black;
+}
+
+.p_music
+{
+	text-align: center;
+	color: blue;
+	font-size: 20px;
+}
+
+.des_musiques
+{
+	display: inline-block;
+	
+	position: absolute;
+	top: 275px;
+	right: 0px;
+	font-size: 20px;
+	
+}
+
+.novaskin img
+{
+	position: absolute;
+	top: 275px;
+	right: 0px;
+}
+
+.telechargement
+{
+	text-align: left;
+	color: blue;
+}
+
+footer
+{
+	background-color: orange;
+	position: absolute;
+	bottom: 12230px;
+}
+
+footer p
+{
+	color: red;
+}
+
+p
+{
+	color: blue;
+	font-size: 20px;
+}
